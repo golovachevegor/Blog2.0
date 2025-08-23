@@ -8,6 +8,10 @@ autopep8 = "*"
 django = "*"
 python-dotenv = "*"
 psycopg = {extras = ["binary"], version = "*"}
+pillow = "*"
+isort = "*"
+django-mptt = "*"
+django-mptt-admin = "*"
 
 [dev-packages]
 
