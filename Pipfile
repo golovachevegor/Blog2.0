@@ -12,6 +12,7 @@ pillow = "*"
 isort = "*"
 django-mptt = "*"
 django-mptt-admin = "*"
+pytils = "*"
 
 [dev-packages]
 
