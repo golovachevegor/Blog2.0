@@ -125,6 +125,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = (BASE_DIR / 'static')
+STATICFILES_DIRS = [BASE_DIR / 'templates/js/']
 
 MEDIA_URL = '/media/'
 MIDIA_ROOT = (BASE_DIR / 'media')
