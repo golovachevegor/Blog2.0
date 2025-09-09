@@ -15,6 +15,7 @@ django-mptt-admin = "*"
 pytils = "*"
 django-debug-toolbar = "*"
 django-taggit = "*"
+django-recaptcha = "*"
 
 [dev-packages]
 
